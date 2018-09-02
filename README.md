@@ -1,1 +1,1 @@
-# Author Quiz React with Redux
+# Author Quiz React 
